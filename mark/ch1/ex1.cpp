@@ -11,7 +11,7 @@ void generate(int num, int* arr)
 }
 void sort(int* temp, int N){
     int t;
-    for(int i=0; i<N-1; i++){
+    for(int i=0; i<N-1; i++){   //排好的数量
         for(int j=0; j<N-i-1; j++){
             if(temp[j]>temp[j+1]){
                 t=temp[j];
