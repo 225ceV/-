@@ -108,7 +108,8 @@ Position FindMin( BinTree BST )
 {
     // if(!BST->Left) return BST;
     // return FindMin(BST->Left);
-    while(!BST->Left){
+    if(!BST) return NULL;
+    while(BST->Left){
         BST=BST->Left;
     }
     return BST;
@@ -117,7 +118,8 @@ Position FindMax( BinTree BST )
 {
     // if(!BST->Right) return BST;
     // return FindMax(BST->Right);
-    while (!BST->Right)
+    if(!BST) return NULL;
+    while (BST->Right)
     {
         BST=BST->Right;
     }
