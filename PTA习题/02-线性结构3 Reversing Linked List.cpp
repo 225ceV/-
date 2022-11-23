@@ -8,7 +8,7 @@ struct LinkNode
     rank nxt;
 };
 typedef LinkNode* List;
-void readL(List& L, int n);     //List没有头节点List[MAXNUM-1]
+void readL(List& L, int n);     //List有头节点List[MAXNUM-1]
 rank reversek(List& L, rank p, int k);  //返回第k项的地址
 bool can(const List& L, rank p, int k); //判断是否可以做调换
 void printL(const List& L, rank head);
