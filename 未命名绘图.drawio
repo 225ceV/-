@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T05:18:31.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.3.7" etag="Pc2NUu9_nqJJo1jwijaq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T05:51:53.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zlasXpH0cb1-nACLN1vn" version="21.3.7" type="github">
   <diagram name="第 1 页" id="DT0DDgzE6H0V0aiUm_u_">
-    <mxGraphModel>
+    <mxGraphModel dx="1254" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eqX-QhkI7FphouacMZ70-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-1" target="eqX-QhkI7FphouacMZ70-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-1" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;宋体&quot;&gt;无人机载感知数据管理与特征分析软件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="40" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;仿真数据接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-3" target="eqX-QhkI7FphouacMZ70-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-3" target="eqX-QhkI7FphouacMZ70-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-3" target="eqX-QhkI7FphouacMZ70-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-3" target="eqX-QhkI7FphouacMZ70-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-3" value="传感器配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=宋体;fontSize=24;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-4" target="eqX-QhkI7FphouacMZ70-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-4" target="eqX-QhkI7FphouacMZ70-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;算法应用接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-5" value="监视任务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=宋体;fontSize=24;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="355" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据查看界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-10" value="基础算法选型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="430" y="628" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-11" value="目标检测任务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=宋体;fontSize=24;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-12" value="目标跟踪任务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=宋体;fontSize=24;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-13" value="避障任务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=宋体;fontSize=24;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-14" value="算法优化调整" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="430" y="698" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;结果可视化展示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="430" y="780" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-16" value="结果文件保存" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="850" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-17" value="软件使用说明" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-18" target="eqX-QhkI7FphouacMZ70-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=24;fontColor=default;" edge="1" parent="1" source="eqX-QhkI7FphouacMZ70-18" target="eqX-QhkI7FphouacMZ70-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqX-QhkI7FphouacMZ70-18" value="图形用户界面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
