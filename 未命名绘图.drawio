@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T01:58:24.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZT7nPZys7E2Gn-tvgMCf" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-19T01:59:50.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7tpSyzHNu5jeblgJ_7sl" version="21.6.8" type="github" pages="3">
   <diagram name="第 1 页" id="DT0DDgzE6H0V0aiUm_u_">
     <mxGraphModel dx="1254" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,9 +245,6 @@
             <mxPoint x="190" y="300" as="sourcePoint" />
             <mxPoint x="190" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VdFVtFcgkzhEmOfpq3mA-44" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=宋体;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdFVtFcgkzhEmOfpq3mA-45" value="用户界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=宋体;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="10" y="240" width="60" height="30" as="geometry" />
