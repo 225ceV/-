@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T06:39:07.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GJAfaiGEtvk2TaBLss-e" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-23T06:40:29.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3aON9BeC0AMgBWF_b9gB" version="21.6.8" type="github" pages="4">
   <diagram name="第 1 页" id="DT0DDgzE6H0V0aiUm_u_">
     <mxGraphModel dx="1254" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,7 +353,7 @@
         <mxCell id="3vrPFPzwksv3-DNrqH8R-4" value="高光谱&lt;br&gt;图像特征分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="459" y="270" width="40" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="3vrPFPzwksv3-DNrqH8R-5" value="图性用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="3vrPFPzwksv3-DNrqH8R-5" value="图形用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="589" y="270" width="40" height="310" as="geometry" />
         </mxCell>
       </root>
